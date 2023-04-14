@@ -2,6 +2,8 @@
 
 This is a Lua plugin for AMS 8.x product line. It was created by Rexzooly Kai Black (Kingzooly) and is designed to provide a user-friendly way of performing web calls using Wget.
 
+You will need to download the wget.exes yourself and rename them wget32.exe and wget64.exe and set the path with __PathToWget in the [source.lua](https://github.com/rexzooly/wget-plugin/blob/main/source.lua) file.
+
 ## Usage
 
 The plugin provides several functions to customize the behavior of the web calls. The most important ones are:
@@ -52,6 +54,9 @@ end
 
 ## About
 This plugin was created by Rexzooly Kai Black (Kingzooly) for the AMS 8.x product line. The version of the plugin is 0.0.0.4, and it was last updated on April 2023. For more information, please visit the [official fourm post](https://forums.indigorose.com/forum/autoplay-media-studio-8-5/autoplay-media-studio-8-plugins-and-addons/307251-wget) and for the complied lmd.
+
+## Download
+Download the recreated plugin for plug and play like most plugins for AMS then please download it from the forum post [HERE](https://forums.indigorose.com/forum/autoplay-media-studio-8-5/autoplay-media-studio-8-plugins-and-addons/307251-wget)
 
 ### Thanks
 This wouldn't be possible without [wget](https://www.gnu.org/software/wget/) so I would like to thank everyone whom as made that project possible.
